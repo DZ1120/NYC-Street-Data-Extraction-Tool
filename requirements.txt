@@ -1,0 +1,19 @@
+# Core dependencies
+geopandas>=0.10.0
+folium>=0.12.0
+shapely>=1.8.0
+pyproj>=3.0.0
+numpy>=1.20.0
+
+# Visualization
+svgwrite>=1.4.0
+svglib>=1.5.0
+reportlab>=3.6.0
+
+# Geocoding
+geopy>=2.2.0
+
+# Optional dependencies for development
+pytest>=7.0.0  # for testing
+black>=22.0.0  # for code formatting
+flake8>=4.0.0  # for code linting 
